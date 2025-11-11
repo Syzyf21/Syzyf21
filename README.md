@@ -3,7 +3,7 @@
 </p>
 
 ## Hey, I'm Hubert
-- 💼 Currently i work as a Junior Infrastructure Engineer at Orange Polska S.A.
+- 💼 I work as a Junior Infrastructure Engineer at Orange Polska S.A.
 - 💡 I'm learning DevOps tools to develop my career in this field
 - 🔍 Currently working with: Python, GO, git, Docker, Kubernetes, MySQL
 
