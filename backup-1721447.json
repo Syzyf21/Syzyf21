@@ -1,0 +1,747 @@
+{
+  "user.settings": {
+    "user": {}
+  },
+  "canvas.sections": [
+    {
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "Hey 👋 I'm Hubert",
+          "as": "h1"
+        },
+        "styles": {
+          "align": "left"
+        }
+      },
+      "id": "e0e1b303-d4a3-4259-aad1-6c223e545da4"
+    },
+    {
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "- 💼 I work as a Junior Infrastructure Engineer at Orange Polska S.A.\n-💡 I'm learning DevOps tools to develop my career in this field\n-🔍 Currently working with: Python, GO, git, Docker, Kubernetes, MySQL",
+          "as": "p"
+        },
+        "styles": {
+          "align": "left"
+        }
+      },
+      "id": "ae623136-0561-4136-ad84-4cafd1ed980e"
+    },
+    {
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "🛠️ Tech Stack",
+          "as": "h2"
+        },
+        "styles": {
+          "align": "left"
+        }
+      },
+      "id": "1eae22a7-329e-4f70-a78e-25024e984961"
+    },
+    {
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "💬 Languages",
+          "as": "h3"
+        },
+        "styles": {
+          "align": "left"
+        }
+      },
+      "id": "951460b8-dc41-4150-b5f5-b2fb2fe1b3be"
+    },
+    {
+      "type": "techs",
+      "props": {
+        "content": {
+          "icons": {
+            "python": {
+              "name": "python",
+              "color": "#3776AB",
+              "alias": [
+                "py"
+              ],
+              "tags": [
+                "programming",
+                "language"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=py"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/python/3776AB"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            },
+            "csharp": {
+              "name": "csharp",
+              "color": "#239120",
+              "alias": [
+                "cs",
+                "c#"
+              ],
+              "tags": [
+                "language"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=cs"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/csharp/239120"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            },
+            "bash": {
+              "name": "bash",
+              "color": "#4EAA25",
+              "alias": [],
+              "tags": [
+                "shell",
+                "command"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=bash"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/gnubash/4EAA25"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            }
+          },
+          "config": {},
+          "styles": {
+            "height": "30"
+          }
+        },
+        "styles": {
+          "align": "left",
+          "spacing": 12
+        }
+      },
+      "id": "da1323ad-5566-4c34-882e-582126a94925"
+    },
+    {
+      "id": "d24ed598-c6fa-435d-8e1c-d885efb74b47",
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "🧰 Dev Tools",
+          "as": "h3"
+        },
+        "styles": {
+          "align": "left"
+        }
+      }
+    },
+    {
+      "id": "9a085c16-89a7-4f9e-8534-83690efa8ae0",
+      "type": "techs",
+      "props": {
+        "content": {
+          "icons": {
+            "docker": {
+              "name": "docker",
+              "color": "#2496ED",
+              "alias": [],
+              "tags": [
+                "platform",
+                "deploy"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=docker"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/docker/2496ED"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            },
+            "git": {
+              "name": "git",
+              "color": "#F05032",
+              "alias": [],
+              "tags": [
+                "version-control"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=git"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/git/F05032"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            },
+            "github": {
+              "name": "github",
+              "color": "#181717",
+              "alias": [],
+              "tags": [
+                "version-control"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=github"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/github/181717"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            }
+          },
+          "config": {},
+          "styles": {
+            "height": "30"
+          }
+        },
+        "styles": {
+          "align": "left",
+          "spacing": 12
+        }
+      }
+    },
+    {
+      "id": "7639519c-236f-4311-9931-eb96382be650",
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "🧩 Frameworks",
+          "as": "h3"
+        },
+        "styles": {
+          "align": "left"
+        }
+      }
+    },
+    {
+      "id": "e4290b56-6f8d-4af8-8e8a-de274fb7af46",
+      "type": "techs",
+      "props": {
+        "content": {
+          "icons": {
+            "selenium": {
+              "name": "selenium",
+              "color": "#43B02A",
+              "alias": [],
+              "tags": [
+                "webdrive",
+                "automation"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=selenium"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/selenium/43B02A"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            },
+            "pandas": {
+              "name": "pandas",
+              "color": "#150458",
+              "alias": [],
+              "tags": [
+                "library",
+                "python"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "devicons"
+              ],
+              "providers": {
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/pandas/150458"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            }
+          },
+          "config": {},
+          "styles": {
+            "height": "30"
+          }
+        },
+        "styles": {
+          "align": "left",
+          "spacing": 12
+        }
+      }
+    },
+    {
+      "id": "14a5b338-0c9e-4930-b0c1-068084548411",
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "🎮 Game Engines",
+          "as": "h3"
+        },
+        "styles": {
+          "align": "left"
+        }
+      }
+    },
+    {
+      "id": "76a5a756-c018-4341-94f3-491959ac9943",
+      "type": "techs",
+      "props": {
+        "content": {
+          "icons": {
+            "unity": {
+              "name": "unity",
+              "color": "#FFFFFF",
+              "alias": [],
+              "tags": [
+                "csharp",
+                "engine",
+                "game"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=unity"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/unity/FFFFFF"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            }
+          },
+          "config": {},
+          "styles": {
+            "height": "30"
+          }
+        },
+        "styles": {
+          "align": "left",
+          "spacing": 12
+        }
+      }
+    },
+    {
+      "id": "c8c85dc8-f15d-4639-b4f0-bc80bb0770e2",
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "🖥️ Sysadmin & Monitoring Tools",
+          "as": "h3"
+        },
+        "styles": {
+          "align": "left"
+        }
+      }
+    },
+    {
+      "id": "dcf16803-82b9-4025-a5bc-02639fc29834",
+      "type": "techs",
+      "props": {
+        "content": {
+          "icons": {
+            "ansible": {
+              "name": "ansible",
+              "color": "#EE0000",
+              "alias": [],
+              "tags": [
+                "automation",
+                "provisioning",
+                "deployment",
+                "continuous-delivery"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "skill_icons",
+                "devicons"
+              ],
+              "providers": {
+                "skill_icons": {
+                  "path": "https://skillicons.dev/icons?i=ansible"
+                },
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/ansible/EE0000"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            }
+          },
+          "config": {},
+          "styles": {
+            "height": "30"
+          }
+        },
+        "styles": {
+          "align": "left",
+          "spacing": 12
+        }
+      }
+    },
+    {
+      "id": "a3670e72-56d6-4024-afcd-f9f3682263c4",
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "🐧 OS/Distros",
+          "as": "h3"
+        },
+        "styles": {
+          "align": "left"
+        }
+      }
+    },
+    {
+      "id": "3504049d-d36f-4a0f-a7aa-4188db1e9454",
+      "type": "techs",
+      "props": {
+        "content": {
+          "icons": {
+            "windows8": {
+              "name": "windows8",
+              "color": "#0078D6",
+              "alias": [],
+              "tags": [
+                "os"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "devicons"
+              ],
+              "providers": {
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/windows/0078D6"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            },
+            "ubuntu": {
+              "name": "ubuntu",
+              "color": "#E95420",
+              "alias": [],
+              "tags": [
+                "os"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "devicons"
+              ],
+              "providers": {
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/ubuntu/E95420"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            },
+            "debian": {
+              "name": "debian",
+              "color": "#A81D33",
+              "alias": [],
+              "tags": [
+                "os",
+                "server"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "devicons"
+              ],
+              "providers": {
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/debian/A81D33"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            }
+          },
+          "config": {},
+          "styles": {
+            "height": "30"
+          }
+        },
+        "styles": {
+          "align": "left",
+          "spacing": 12
+        }
+      }
+    },
+    {
+      "id": "75c30aa5-e39c-403b-b434-25f7556116b4",
+      "type": "text",
+      "props": {
+        "content": {
+          "text": "🗂️ Misc",
+          "as": "h3"
+        },
+        "styles": {
+          "align": "left"
+        }
+      }
+    },
+    {
+      "id": "31bc3df6-5f5b-45af-90c6-24e2e3bbfd0b",
+      "type": "techs",
+      "props": {
+        "content": {
+          "icons": {
+            "gimp": {
+              "name": "gimp",
+              "color": "#5C5543",
+              "alias": [],
+              "tags": [
+                "graphic"
+              ],
+              "available_providers": [
+                "simple_icons",
+                "shields",
+                "devicons"
+              ],
+              "providers": {
+                "simple_icons": {
+                  "path": "https://cdn.simpleicons.org/gimp/5C5543"
+                },
+                "shields": {
+                  "path": "https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge"
+                },
+                "devicons": {
+                  "path": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg",
+                  "variants": [
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg",
+                    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg"
+                  ]
+                }
+              },
+              "currentProvider": "shields",
+              "config": {}
+            }
+          },
+          "config": {},
+          "styles": {
+            "height": "30"
+          }
+        },
+        "styles": {
+          "align": "left",
+          "spacing": 12
+        }
+      }
+    }
+  ]
+}
