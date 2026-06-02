@@ -53,6 +53,11 @@
 
 ---
 
+### 🛢 Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
+
+---
+
 ### 🗂️ Misc
 
 ![Gimp](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge)
