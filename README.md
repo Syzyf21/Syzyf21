@@ -24,6 +24,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?logo=github-actions&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/-Gitlab-black?style=for-the-badge&logo=gitlab)
 
 ---
 
@@ -51,6 +52,11 @@
 ### 🛢 Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+---
+
+### ☁️ Cloud
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&style=for-the-badge)
+
 ---
 
 ### 🗂️ Misc
